@@ -35,12 +35,11 @@ This project is a complete end-to-end Supply Chain Analytics solution integratin
 - Delivery delay analysis and heatmaps.
 - Geographical distribution of orders and logistics insights.
 
-📬 Contact
-For queries or collaboration opportunities, feel free to connect:
-
-Name: Saurabh Kore
-LinkedIn: https:linkedin.com/in/saurabh-kore-7499sk
-Email: saurabhkore4238@gmail.com
+## 📬 Contact
+- For queries or collaboration opportunities, feel free to connect:
+- Name: Saurabh Kore
+- LinkedIn: https:linkedin.com/in/saurabh-kore-7499sk
+- Email: saurabhkore4238@gmail.com
 
 
 
